@@ -1,0 +1,5 @@
+{
+  "name": "WAV to MP3 변환기",
+  "description": "A high-quality, in-browser audio converter that transforms multiple WAV files into MP3 format. It displays technical details of the converted files and allows for easy downloading.",
+  "requestFramePermissions": []
+}
